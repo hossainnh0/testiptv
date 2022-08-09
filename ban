@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:0,EKATTOR TV
+#EXTGRP:Bangla
+http://103.55.144.46/hls/nexus.m3u8
+#EXTINF:0,Channel 24
+#EXTGRP:Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:0,Channel S
+#EXTGRP:Bangla
+https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
+#EXTINF:0,BTV
+#EXTGRP:Bangla
+http://103.106.2.152:13456/btv.m3u8
+#EXTINF:0,BTV World
+#EXTGRP:Bangla
+http://103.106.2.152:13456/btv_world.m3u8
+#EXTINF:0,BTV CTG
+#EXTGRP:Bangla
+http://103.106.2.152:13456/btv_ctg.m3u8
+#EXTINF:0,ATN Bangla
+#EXTGRP:Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:0,Channel-i
+#EXTGRP:Bangla
+http://103.55.144.46/hls/channeli.m3u8
+#EXTINF:0,GTV
+#EXTGRP:Bangla
+http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF:0,Maasranga
+#EXTGRP:Bangla
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:0,T Sports
+#EXTGRP:Bangla
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:0,Somoy News
+#EXTGRP:Bangla
+http://103.55.144.46/hls/somoy.m3u8
+#EXTINF:0,DBC News
+#EXTGRP:Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:0,Sanghsad TV
+#EXTGRP:Bangla
+http://103.106.2.152:13456/sangsad.m3u8
+#EXTINF:0,Jamuna TV
+#EXTGRP:Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:0,Independent
+#EXTGRP:Bangla
+http://103.55.144.46/hls/indepen.m3u8
+#EXTINF:0,MY TV
+#EXTGRP:Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:0,Bangla TV
+#EXTGRP:Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:0,SATV
+#EXTGRP:Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:0,Ananda TV
+#EXTGRP:Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
+#EXTINF:0,Pogo
+#EXTGRP:Kids
+http://103.55.144.46/hls/pogo.m3u8
+#EXTINF:0,CN
+#EXTGRP:Kids
+http://103.55.144.46/hls/cn.m3u8
+#EXTINF:0,Nick
+#EXTGRP:Kids
+http://103.55.144.46/hls/nick.m3u8
+#EXTINF:0,Sony Yay
+#EXTGRP:Kids
+http://103.55.144.46/hls/dis-kid.m3u8
+#EXTINF:0,Duronto TV
+#EXTGRP:Kids
+http://103.55.144.46/hls/duranta.m3u8
+#EXTINF:0,Discovery HD
+#EXTGRP:Documentary
+http://103.55.144.46//hls/discovery.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:Documentary
+http://103.55.144.46/hls/ngohd.m3u8
